@@ -1,37 +1,65 @@
-# Sales & Profit Dashboard 
+# 📊 Sales & Profit Dashboard
 
-This repository contains the PowerPoint summary and visuals for **Internship**, where I designed a professional dashboard based on sales and profit KPIs.
-
-## 📌 Task Objective
-
-Design an interactive dashboard using Tableau to help business stakeholders analyze:
-
-- Sales trends
-- Profit performance
-- Category and regional comparisons
-
-## 🎯 Key Features
-
-- KPI Cards: Total Sales, Total Profit, Total Orders
-- Time-series analysis using line charts
-- Region and category-wise breakdowns
-- Filters for interactivity
-- Color-consistent theme with clean layout
-- Insight summary based on visual analytics
-
-## 🖼️ Included Files
-
-- `Final_Sales_Profit_Dashboard_PPT.pptx`: A visual summary of the dashboard, objectives, and insights.
-- Dashboard screenshot (PNG) for reference
-
-## 📘 Learning Outcome
-
-Through this task, I learned how to:
-- Select and visualize relevant KPIs
-- Design user-friendly and professional dashboards
-- Derive meaningful insights from sales data
+This repository contains a professional Tableau dashboard and supporting presentation created during my internship.  
+The dashboard helps business stakeholders analyze **Sales Trends, Profit Performance, and Regional/Category Comparisons**.
 
 ---
 
-**Created by:** Debabrata Mondal  
-**Task Date:** 05 June 2025
+## 📌 Task Objective
+Design an interactive and user-friendly dashboard to explore:
+- Sales growth over time
+- Profit margin analysis
+- Category and regional comparisons
+- Key performance indicators (KPIs)
+
+---
+
+## 🎯 Key Features
+- 📌 KPI Cards: Total Sales, Total Profit, Total Orders  
+- 📈 Time-series analysis with line charts  
+- 🌍 Regional and category-wise breakdown  
+- 🎛️ Filters for interactivity  
+- 🎨 Consistent color theme and clean layout  
+- 📝 Insights derived from data analytics  
+
+---
+
+## 🛠️ Tools Used
+- Tableau → Dashboard design & visualization  
+- Excel → Data cleaning & preparation  
+- PowerPoint → Final presentation summary  
+
+---
+
+## 🖼️ Dashboard Preview
+![Dashboard Preview](Dashboard_Screenshot.png)
+
+---
+
+## 📘 Learning Outcomes
+Through this task, I learned to:
+- Select and visualize relevant KPIs
+- Design professional, user-friendly dashboards
+- Translate data into business insights
+
+---
+
+## 🔍 Insights
+- The [Region] region generated the highest overall sales.  
+- [Category] contributed the maximum profit share (~30%).  
+- Profitability was inconsistent across [Sub-categories].  
+
+---
+
+## 📂 Included Files
+- `Final_Sales_Profit_Dashboard_PPT.pptx` → Presentation with objectives & insights  
+- `Dashboard_Screenshot.png` → Dashboard snapshot  
+
+---
+
+## 📅 Project Info
+- Created by: **Debabrata Mondal**  
+- Task Date: **05 June 2025**  
+- Dataset: Superstore Sample Dataset (Tableau)  
+
+---
