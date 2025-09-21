@@ -32,7 +32,7 @@ Design an interactive and user-friendly dashboard to explore:
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
