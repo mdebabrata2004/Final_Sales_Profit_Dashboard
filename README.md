@@ -53,7 +53,7 @@ Through this task, I learned to:
 
 ## 📂 Included Files
 - `Final_Sales_Profit_Dashboard_PPT.pptx` → Presentation with objectives & insights  
-- `Dashboard_Screenshot.png` → Dashboard snapshot  
+- `dashboard_preview.png` → Dashboard snapshot  
 
 ---
 
